@@ -1,0 +1,10 @@
+C:\Users\nati\source\repos\upgraded damka\bin\Debug\upgraded damka.exe.config
+C:\Users\nati\source\repos\upgraded damka\bin\Debug\upgraded damka.exe
+C:\Users\nati\source\repos\upgraded damka\bin\Debug\upgraded damka.pdb
+C:\Users\nati\source\repos\upgraded damka\obj\Debug\upgraded damka.csprojAssemblyReference.cache
+C:\Users\nati\source\repos\upgraded damka\obj\Debug\upgraded_damka.Form1.resources
+C:\Users\nati\source\repos\upgraded damka\obj\Debug\upgraded_damka.Properties.Resources.resources
+C:\Users\nati\source\repos\upgraded damka\obj\Debug\upgraded damka.csproj.GenerateResource.cache
+C:\Users\nati\source\repos\upgraded damka\obj\Debug\upgraded damka.csproj.CoreCompileInputs.cache
+C:\Users\nati\source\repos\upgraded damka\obj\Debug\upgraded damka.exe
+C:\Users\nati\source\repos\upgraded damka\obj\Debug\upgraded damka.pdb
